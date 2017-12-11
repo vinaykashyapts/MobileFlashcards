@@ -59,7 +59,7 @@ export function clearLocalNotification() {
 function createNotification() {
   return {
     title: 'Study!!',
-    body: "👋 don't forget to study for this days with one of your decks!!!",
+    body: "👋 Hey you need to study topics on your decks!!!",
     ios: {
       sound: true,
     },

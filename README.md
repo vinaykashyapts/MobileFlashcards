@@ -1,20 +1,21 @@
 # Mobile Flashcards
 
+This is the final assessment project for Udacity's React Native course.
+
 Mobile application that allows users to study colection of flashcards, built using react native.
 The app will allow users to create different categories of flashcards called "decks", add flashcards to those decks, then take quizzes on those decks.
 
-# Setup
+## Instructions for running the application
 
-* npm install
+Clone this repository
 
-# Run
+- npm install
+- npm start
 
-* npm start
-
-# Platforms
+## Platforms
 
 Runs on both Android and iOS
 
-# Author
+## Author
 
 Vinay Kashyap

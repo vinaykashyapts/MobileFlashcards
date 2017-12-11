@@ -16,7 +16,7 @@ export function receiveDecks (decks) {
 }
 
 /**
- * Adds a specific deck
+ * Adds a new deck
  * @param deck
  * @returns {{type: string, deck: *}}
  */
@@ -28,7 +28,7 @@ export function addDeck (deck) {
 }
 
 /**
- * Adds a specific card
+ * Adds a new card
  * @returns {{type: string}}
  */
 export function addCard(send) {

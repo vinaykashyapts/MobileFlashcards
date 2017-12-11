@@ -1,5 +1,20 @@
 {
   "expo": {
-    "sdkVersion": "23.0.0"
+    "sdkVersion": "23.0.0",
+    "orientation": "portrait",
+    "name": "FlashCards",
+    "description": "The best app for learning",
+    "slug": "flashcards",
+    "version": "1.0",
+    "icon": "https://png.icons8.com/red-card/office/50/000000",
+    "notification": {
+      "icon": "https://png.icons8.com/red-card/office/50/000000"
+    },
+    "ios": {
+      "bundleIdentifier": "com.flashcards.exp"
+    },
+    "android": {
+      "package": "com.flashcards.exp"
+    }
   }
 }

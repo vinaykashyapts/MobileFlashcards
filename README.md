@@ -14,7 +14,7 @@ Clone this repository
 
 ## Platforms
 
-Runs on both Android and iOS
+Tested on Android. Support for iOS is not tested.
 
 ## Author
 

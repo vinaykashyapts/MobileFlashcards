@@ -19,3 +19,7 @@ Tested on Android. Support for iOS is not tested.
 ## Author
 
 Vinay Kashyap
+
+## License
+
+React is [MIT licensed](./LICENSE).
